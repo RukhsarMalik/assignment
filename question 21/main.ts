@@ -4,3 +4,5 @@ let fav_places = {
     country : "Pakistan",
     language: "Punjabi"
 }
+
+console.log(fav_places)
